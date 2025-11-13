@@ -1,0 +1,24 @@
+This is a placeholder for the actual resume PDF.
+
+To replace this with a real resume:
+1. Create your resume PDF using a tool like Canva, Google Docs, or LaTeX
+2. Name it "gokul_resume.pdf"
+3. Place it in the /public/resume/ directory
+
+The resume should include:
+- Personal information and contact details
+- Professional summary
+- Work experience (including the AI/ML internship)
+- Education (B.Sc. Computer Science, MCA)
+- Key projects (MyAnimeTracker, RAG Assistant, StudyPro)
+- Technical skills
+- Certifications and achievements
+
+Make sure the PDF is ATS-friendly with:
+- Clean, simple formatting
+- Standard fonts
+- Proper section headings
+- Bullet points for lists
+- No images or graphics that could break parsing
+
+The interactive preview on the resume page will showcase all the key information, while the PDF provides the downloadable, formal version.

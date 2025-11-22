@@ -185,7 +185,7 @@ export default function AboutPage() {
                 <motion.div whileHover={{ scale: 1.05 }} className="relative w-48 h-48 mx-auto md:mx-0">
                   <div className="absolute inset-0 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full blur-xl opacity-50"></div>
                   <div className="relative w-full h-full rounded-full border-4 border-purple-400/50 overflow-hidden neon-glow">
-                    <Image src="/yoganathan.jpg" alt="Yoganathan C" width={192} height={192} className="w-full h-full object-cover" />
+                    <Image src="/yoganathan.png" alt="Yoganathan C" width={192} height={192} className="w-full h-full object-cover" />
                   </div>
                   <div className="absolute -bottom-2 -right-2 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full p-3">
                     <span className="text-2xl"></span>

@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     siteName: "Yoganathan C Portfolio",
     images: [
       {
-        url: "/yoganathan.jpg",
+        url: "/yoganathan.png",
         width: 1200,
         height: 630,
         alt: "Yoganathan C - Flutter Developer & AI Innovator",
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: "Yoganathan C — Flutter Developer & AI Innovator",
     description:
       "Portfolio of Yoganathan C, MCA student specializing in Flutter and AI-powered mobile applications.",
-    images: ["/yoganathan.jpg"],
+    images: ["/yoganathan.png"],
     creator: "@yoganathan",
   },
   verification: {

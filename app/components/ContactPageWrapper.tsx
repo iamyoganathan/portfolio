@@ -374,7 +374,7 @@ function ContactForm() {
                 </motion.a>
 
                 <motion.a
-                  href="https://instagram.com/yoganathan"
+                  href="https://instagram.com/thelifeof_mr.yogi_"
                   target="_blank"
                   rel="noreferrer"
                   className="group p-4 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border border-pink-400/20 hover:border-pink-400/40 hover:from-purple-500/20 hover:to-pink-500/20 transition-all flex flex-col items-center"

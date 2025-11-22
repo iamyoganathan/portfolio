@@ -54,7 +54,7 @@ export default function Hero() {
             className="space-y-4"
           >
             <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight">
-              <span className="block text-white">Hi, I'm</span>
+              <span className="block text-white">Hi, I&apos;m</span>
               <span className="block gradient-text">Yoganathan C</span>
             </h1>
             <div className="flex flex-wrap gap-2 text-xl md:text-2xl font-semibold text-purple-200">

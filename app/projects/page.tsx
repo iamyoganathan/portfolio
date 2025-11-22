@@ -1,6 +1,5 @@
 "use client";
 
-import type { Metadata } from "next";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { projectSummaries } from "../data/projects";
@@ -231,7 +230,7 @@ export default function ProjectsPage() {
             Have a Project in Mind?
           </h3>
           <p className="text-lg text-purple-100/80 max-w-2xl mx-auto">
-            Let's collaborate and bring your ideas to life with cutting-edge
+            Let&apos;s collaborate and bring your ideas to life with cutting-edge
             mobile and AI solutions
           </p>
           <div className="flex flex-wrap justify-center gap-4 pt-4">

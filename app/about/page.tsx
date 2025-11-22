@@ -286,8 +286,8 @@ export default function AboutPage() {
             </motion.section>
 
             <motion.section initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.6 }} className="glass-hover p-12 rounded-3xl text-center space-y-6 neon-glow">
-              <h3 className="text-3xl font-bold gradient-text">Let's Build Something Amazing Together</h3>
-              <p className="text-lg text-purple-100/80 max-w-2xl mx-auto">Have an interesting project? I'd love to hear about it.</p>
+              <h3 className="text-3xl font-bold gradient-text">Let&apos;s Build Something Amazing Together</h3>
+              <p className="text-lg text-purple-100/80 max-w-2xl mx-auto">Have an interesting project? I&apos;d love to hear about it.</p>
               <div className="flex flex-wrap justify-center gap-4 pt-4">
                 <a href="/contact" className="btn-primary"><span>Get In Touch</span></a>
                 <a href="/projects" className="btn-ghost"><span>View My Work</span></a>

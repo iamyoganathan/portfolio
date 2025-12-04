@@ -57,7 +57,7 @@
 5. **Deploy**
    - Click "Deploy"
    - Wait 2-3 minutes for build to complete
-   - Your site will be live at: `https://your-portfolio-xyz.vercel.app`
+   - Your site will be live at: `https://yoganathan.dev` (or `https://your-portfolio-xyz.vercel.app`)
 
 ### Step 3: Custom Domain (Optional)
 
@@ -71,7 +71,7 @@
    - Follow Vercel's instructions to update DNS records
 
 3. **Free subdomain alternative**
-   - Use Vercel's free subdomain: `your-name.vercel.app`
+   - Use Vercel's free subdomain: `your-name.vercel.app` or custom domain like `yoganathan.dev`
    - Or request custom subdomain in Vercel settings
 
 ---
@@ -188,12 +188,12 @@
 
 1. **app/layout.tsx** - Line 17
    ```typescript
-   metadataBase: new URL("https://your-actual-domain.vercel.app"),
+   metadataBase: new URL("https://yoganathan.dev"),
    ```
 
 2. **app/layout.tsx** - Line 57
    ```typescript
-   url: "https://your-actual-domain.vercel.app",
+   url: "https://yoganathan.dev",
    ```
 
 3. **Social media links**
@@ -429,7 +429,7 @@ Once deployed, share on:
    
    Built with Next.js, TypeScript, and Tailwind CSS
    
-   🔗 https://your-domain.vercel.app
+   🔗 https://yoganathan.dev
    
    #Flutter #NextJS #WebDevelopment #Portfolio
    ```
